@@ -6,7 +6,7 @@
   <p>AI‑assisted copy‑trading bot on Solana with a slick local web controller.</p>
 
   <p>
-    <sub>Built with Python · Flask · websockets · aiohttp · solders</sub>
+    <sub>Built with Pythonn · Flask · websockets · aiohttp · solders</sub>
   </p>
 
   <p>
